@@ -1,0 +1,33 @@
+name: draggable_example
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.3.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.0
+  auto_size_text:
+  cached_network_image:
+  font_awesome_flutter:
+  google_fonts:
+  intl: 
+  json_path:
+  page_transition:
+  shared_preferences:
+  timeago:
+  url_launcher: 
+#  flutterflow:
+
+  flushbar: ^1.10.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
